@@ -1,10 +1,10 @@
 # Sistema de Gerenciamento de Locação de Carros
 
-##Overview
+## Overview
 Este projeto é um sistema de gerenciamento de locação e devolução de carros desenvolvido em Python, utilizando programação orientada a objetos (POO).
 O sistema permite cadastrar carros, clientes, funcionários, reservas e promoções, além de realizar operações como listar e buscar esses registros.
 
-##Features
+## Features
 - Cadastro de Carros: Permite cadastrar carros, incluindo esportivos e utilitários.
 - Cadastro de Clientes e Funcionários: Permite cadastrar clientes e funcionários.
 - Cadastro de Reservas: Permite cadastrar reservas de carros.
@@ -14,7 +14,7 @@ O sistema permite cadastrar carros, clientes, funcionários, reservas e promoç�
 - Remoção de Carros e Reservas: Permite remover carros e reservas.
 - Envio de Promoções: Permite enviar promoções para clientes via email (simulado).
 
-##Usage
+## Usage
 1. Certifique-se de ter o Python instalado na versão 3.6 ou superior.
 2. Tenha os dois scripts "classes.py" e "sistema_teste.py" no mesmo repositório.
 3. Para executar o sistema, execute o arquivo de testes "sistema_teste.py"

@@ -41,6 +41,18 @@ Uma dica é: Utilize conceitos de manipulação de strings para inverter a palav
 
 <br>
 
+## 4 - Sistema de Gerenciamento de Locação de Carros 🛞
+
+Descrição: Iremos implementar um sistema de gerenciamento de locação e devolução de carros.
+Uma dica é: Utilize as features de POO para montar o sistema.
+
+### O que aprenderemos?
+* O que é uma classe?
+* O que é um objeto?
+* O que é herança?
+
+<br>
+
 ## Credits
 Esse projeto foi criado por Edson Júnior.
 
